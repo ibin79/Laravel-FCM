@@ -183,7 +183,7 @@ class PayloadNotificationBuilder
      *
      * @param $image
      *
-     * @return string|null
+     * @return PayloadNotificationBuilder current instance of the builder
      */
     public function setImage($image)
     {
