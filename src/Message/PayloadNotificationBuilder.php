@@ -189,7 +189,7 @@ class PayloadNotificationBuilder
     {
         $this->image = $image;
 
-        return $this->image;
+        return $this;
     }
 
     /**
